@@ -76,7 +76,7 @@
 
 
         // GOOGLE MAPS API KEY
-        var option_google_maps_api_key = "AIzaSyBlbWOkKnTFdz8FwiPwxVUUw5j_sFokTKU";
+        var option_google_maps_api_key = "removedforsecurityreasons";
 
 
 
